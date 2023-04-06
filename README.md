@@ -1,29 +1,3 @@
-# Public Bot and Support Server!
-
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
- 
-[**Invite the Public Version of this Bot**](https://milrato.milrato.dev) So you don't need to host it by yourself or [join my discord Server](https://discord.gg/milrato) to get a custom hosted Bot for you!
-
-
-# Important notes and thank ❤️
-First of all, thanks for using this Source Code, it was and is a ton of work to create and maintain it!
-That's why I'm asking everyone to [**donate a little bit of money**](https://donate.milrato.dev) or if that's not possible, then join my [Discord Server](https://discord.gg/milrato)!
-
-# Installation Guide 🔥
-
-## ✅ Hosting Requirements
-
-<details>
-  <summary>Click to expand</summary>
-
-  * [nodejs](https://nodejs.org) version 16.6 or higher, i recommend the latest STABLE version
-  * [python](https://python.org) version 3.8 or higher, to install the database `enmap` (better-sqlite3)
-  * a VPS would be adviced, so you don't need to keep your pc/laptop/raspi 24/7 online! [click here for a debian setup](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/)
-  * Check out my Recommended Host: [BERO-HOST](https://bero.milrato.dev) and use code `milrato` for cheap OP VPS (kvm)
-  * [Click here for a Direct Order Link](https://bero-host.de/server/prepaid-kvm-rootserver-paket-mieten)
-
-</details>
-
 ## 🤖 Bot Requirements
 
 <details>
